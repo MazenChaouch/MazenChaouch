@@ -6,9 +6,9 @@ I'm a **Frontend Developer** specializing in **ReactJS**, **Next.js**, and **pix
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, TypeScript, HTML/CSS
+- **Languages:** Python, JavaScript, TypeScript, HTML/CSS, TailwindCSS
 - **Frameworks:** React.js, Next.js, Node.js, Django, Express.js, Flask
-- **Tools:** Git, Firebase, Prisma, Tailwind CSS, Shadcn-UI, Vercel, Railway
+- **Tools:** Git, Firebase, Prisma, Shadcn-UI, Vercel, Railway
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **Specialties:** Automation, APIs, Backend Development, Pixel-perfect Design
 
