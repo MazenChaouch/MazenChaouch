@@ -17,7 +17,7 @@ I'm a **Frontend Developer** specializing in **ReactJS**, **Next.js**, and **pix
 ## 🌐 Connect with Me
 
 - **GitHub:** [github.com/MazenChaouch](https://github.com/MazenChaouch)
-- **LinkedIn:** [linkedin.com/in/mazen-chaouch](https://www.linkedin.com/in/mazen-chaouch)
+- **LinkedIn:** [linkedin.com/in/mazen-chaouch](https://www.linkedin.com/in/mazenchaouch)
 - **Website:** [mazenchaouch.me](https://mazenchaouch.me)
 
 ---
