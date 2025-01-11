@@ -25,6 +25,8 @@ I'm a **Frontend Developer** specializing in **ReactJS**, **Next.js**, and **pix
 ## 📈 GitHub Stats
 
 ![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazenChaouch&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=MazenChaouch&color=blue&style=flat-square)
+
 
 ---
 
