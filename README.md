@@ -1,84 +1,126 @@
-# 👋 Hi, I'm Mazen Chaouch!
+<!-- ========= Mazen Chaouch · Executive Gold Edition (Dark Mode Optimized) ========= -->
 
-🚀 **Frontend Developer** | 🛠️ **ReactJS & Next.js Specialist** | 🎨 **Pixel-perfect Design Advocate**  
-🌐 I create dynamic, high-performance web applications and ensure scalable, robust backend solutions.
+<div align="center">
 
----
+<!-- Banner: Gold gradient with dark text for high contrast on Gold -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1200,50:D4AF37,100:1a1200&text=Mazen%20Chaouch&fontSize=64&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Web%20Application%20Engineer&descAlignY=62&descSize=16&fontColor=1a1a1a&animation=twinkling" width="100%" alt="gold banner" />
 
-## 🛠️ **Technologies & Tools**
+<p>
+  <a href="https://mazen-chaouch.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1200?style=for-the-badge&logo=vercel&logoColor=gold" /></a>
+  <a href="https://www.linkedin.com/in/mazenchaouch"><img src="https://img.shields.io/badge/LinkedIn-1a1200?style=for-the-badge&logo=linkedin&logoColor=gold" /></a>
+  <a href="mailto:m.chaouch007@gmail.com"><img src="https://img.shields.io/badge/Email-1a1200?style=for-the-badge&logo=gmail&logoColor=gold" /></a>
+</p>
 
-### 🌟 **Frontend Development**
-- **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) 
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+<!-- Typing Text: Rich Gold (#DAA520) for visibility on Black Background -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=900&lines=I+craft+premium%2C+production-ready+web+interfaces.;Figma+%E2%86%92+Pixel-perfect+UI+%E2%86%92+Scalable+Next.js+systems.;Performance%2C+clarity%2C+and+architecture+that+scales.&color=DAA520&size=20" alt="gold typing" />
 
-- **Frameworks & Libraries:**  
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+<br/><br/>
 
----
-
-### 🔧 **Backend Development**
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-- **Frameworks & Tools:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
-  ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) 
-  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+</div>
 
 ---
 
-### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+
+### ✨ UI Precision
+Interfaces that feel intentional.  
+Spacing, hierarchy, motion, accessibility — refined to the smallest detail.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Performance Mindset
+Lean bundles.  
+Predictable state.  
+Smart data fetching.  
+Apps that stay fast as they grow.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 Architecture Thinking
+Component systems, clean boundaries, and scalable folder structures built for real products.
+
+</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-### ⚙️ **Other Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+<div align="center">
+
+### 🧰 Toolbox
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,nodejs,express,postgres,prisma,vercel,git,figma&perline=6" alt="toolbox" />
+
+</div>
 
 ---
 
-## 🌟 **About Me**
+<div align="center">
 
-👨‍🏫 **Instructor at GoMyCode:** Sharing my passion for coding through hands-on workshops.  
-🎯 **Mission:** Helping businesses solve challenges, automate workflows, and create user-focused web applications.  
-🎨 **Specialties:**  
-- Crafting **pixel-perfect** UIs with TailwindCSS.  
-- Building scalable backends using TypeScript and Express.  
-- Automating workflows to enhance productivity.
+## 🏗️ What I Like Building
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🖥️ Product Interfaces
+- **SaaS Platforms** built around clarity and deep usability
+- **Data Dashboards** with clean information hierarchy
+- **E‑commerce Frontends** optimized for speed and conversion
+- **Internal Tools** powered by reusable component systems
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Scalable Foundations
+- **Authentication** flows and secure session management
+- **API Integration** with predictable contracts and structured routing
+- **State Management** for complex, data-heavy applications
+- **Deployment Workflows** built for production reliability
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Interactive Features
+- **Real-Time Data** synchronization and live interface updates
+- **Fluid Animations** and page transitions that elevate UX
+- **Dynamic Content** creation tools and media management
+- **Third-Party Integrations** including modern AI and SaaS APIs
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Philosophy
+
+<!-- Using HTML font tag to force the gray color (GitHub dim gray) for that "code comment" aesthetic -->
+<font color="#8b949e"><strong>Simple UI.</strong></font><br/>
+<font color="#8b949e"><strong>Strong architecture.</strong></font><br/>
+<font color="#8b949e"><strong>Ship with quality.</strong></font>
+
+</div>
 
 ---
 
-## 📈 **GitHub Stats**
+<div align="center">
 
-![Mazen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MazenChaouch&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MazenChaouch&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=MazenChaouch&color=blue&style=flat-square)
+<!-- Stats with Gold Accents and Transparent Background -->
+<img height="170" src="https://streak-stats.demolab.com/?user=mazenchaouch&theme=transparent&title_color=DAA520&text_color=a0a0a0&icon_color=DAA520&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
----
+<br/>
+<img src="https://komarev.com/ghpvc/?username=mazenchaouch&label=views&color=DAA520&style=flat" alt="Profile Views" />
 
-## 🌐 **Connect with Me**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MazenChaouch)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazenchaouch)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=web&logoColor=white)](https://mazenchaouch.me)
-
----
-
-### 🚀 Let’s Collaborate!
-
-💬 Have a project idea? Need a developer to bring it to life? Let’s team up!  
-
-Drop me a message or connect via [LinkedIn](https://www.linkedin.com/in/mazenchaouch).
+</div>
