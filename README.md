@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- Banner: Gold gradient with dark text for high contrast on Gold -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1200,50:D4AF37,100:1a1200&text=Mazen%20Chaouch&fontSize=64&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Web%20Application%20Engineer&descAlignY=62&descSize=16&fontColor=1a1a1a&animation=twinkling" width="100%" alt="gold banner" />
+<!-- Banner: Slightly smaller (Height 180), Gold gradient with dark text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1200,50:D4AF37,100:1a1200&text=Mazen%20Chaouch&fontSize=38&fontAlignY=32&desc=Frontend%20Developer%20%E2%80%A2%20Web%20Application%20Engineer&descAlignY=46&descSize=14&fontColor=1a1a1a&animation=twinkling" width="100%" alt="gold banner" />
 
 <p>
   <a href="https://mazen-chaouch.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1200?style=for-the-badge&logo=vercel&logoColor=gold" /></a>
@@ -22,30 +22,20 @@
 
 <div align="center">
 
-<table width="100%">
+<table width="100%" cellpadding="15">
   <tr>
-    <td width="33%" valign="top">
-
-### ✨ UI Precision
-Interfaces that feel intentional.  
-Spacing, hierarchy, motion, accessibility — refined to the smallest detail.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Performance Mindset
-Lean bundles.  
-Predictable state.  
-Smart data fetching.  
-Apps that stay fast as they grow.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Architecture Thinking
-Component systems, clean boundaries, and scalable folder structures built for real products.
-
-</td>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>✨ UI Precision</h3>
+      <p><small>Interfaces that feel intentional.<br/>Spacing, hierarchy, motion, accessibility — refined to the smallest detail.</small></p>
+    </td>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>⚡ Performance Mindset</h3>
+      <p><small>Lean bundles.<br/>Predictable state.<br/>Smart data fetching.<br/>Apps that stay fast as they grow.</small></p>
+    </td>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>🧠 Architecture Thinking</h3>
+      <p><small>Component systems, clean boundaries, and scalable folder structures built for real products.</small></p>
+    </td>
   </tr>
 </table>
 
@@ -56,9 +46,12 @@ Component systems, clean boundaries, and scalable folder structures built for re
 <div align="center">
 
 ### 🧰 Toolbox
+<br/>
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,nodejs,express,postgres,prisma,vercel,git,figma&perline=6" alt="toolbox" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -68,36 +61,42 @@ Component systems, clean boundaries, and scalable folder structures built for re
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🖥️ Product Interfaces
-- **SaaS Platforms** built around clarity and deep usability
-- **Data Dashboards** with clean information hierarchy
-- **E‑commerce Frontends** optimized for speed and conversion
-- **Internal Tools** powered by reusable component systems
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Scalable Foundations
-- **Authentication** flows and secure session management
-- **API Integration** with predictable contracts and structured routing
-- **State Management** for complex, data-heavy applications
-- **Deployment Workflows** built for production reliability
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Interactive Features
-- **Real-Time Data** synchronization and live interface updates
-- **Fluid Animations** and page transitions that elevate UX
-- **Dynamic Content** creation tools and media management
-- **Third-Party Integrations** including modern AI and SaaS APIs
-
-</td>
-</tr>
+<table width="100%" cellpadding="15">
+  <tr>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>🖥️ Product Interfaces</h3>
+      <small>
+        <ul>
+          <li><b>SaaS Platforms</b> built around clarity and deep usability</li>
+          <li><b>Data Dashboards</b> with clean information hierarchy</li>
+          <li><b>E‑commerce Frontends</b> optimized for speed and conversion</li>
+          <li><b>Internal Tools</b> powered by reusable component systems</li>
+        </ul>
+      </small>
+    </td>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>⚙️ Scalable Foundations</h3>
+      <small>
+        <ul>
+          <li><b>Authentication</b> flows and secure session management</li>
+          <li><b>API Integration</b> with predictable contracts and routing</li>
+          <li><b>State Management</b> for complex, data-heavy applications</li>
+          <li><b>Deployment Workflows</b> built for production reliability</li>
+        </ul>
+      </small>
+    </td>
+    <td width="33%" valign="top" style="padding-bottom: 30px;">
+      <h3>🚀 Interactive Features</h3>
+      <small>
+        <ul>
+          <li><b>Real-Time Data</b> synchronization and live interface updates</li>
+          <li><b>Fluid Animations</b> and page transitions that elevate UX</li>
+          <li><b>Dynamic Content</b> creation tools and media management</li>
+          <li><b>Third-Party Integrations</b> including modern AI APIs</li>
+        </ul>
+      </small>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -106,10 +105,11 @@ Component systems, clean boundaries, and scalable folder structures built for re
 
 ### 🎯 Philosophy
 
-<!-- Using HTML font tag to force the gray color (GitHub dim gray) for that "code comment" aesthetic -->
-<font color="#8b949e"><strong>Simple UI.</strong></font><br/>
-<font color="#8b949e"><strong>Strong architecture.</strong></font><br/>
-<font color="#8b949e"><strong>Ship with quality.</strong></font>
+<span style="color: #8b949e; font-size: 16px;">
+<strong>Simple UI.</strong><br/>
+<strong>Strong architecture.</strong><br/>
+<strong>Ship with quality.</strong>
+</span>
 
 </div>
 
